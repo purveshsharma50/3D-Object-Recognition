@@ -7,8 +7,11 @@ The main goal of this project is to create an Deep Convolutional Neural Network 
 The repository currently provides the following network architectures:
 
 Architecture I.py
+
 Architecture II.py
+
 Architecture III.py 
+
 Architecture IV.py
 
 All these Multimodal architectures are trained from scratch on LEAP server(Linux Environment)
